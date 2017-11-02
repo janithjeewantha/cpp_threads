@@ -1,0 +1,296 @@
+Afghanistan,Kabul,1922738
+Aland Islands,Mariehamn,569561
+Albania,Tirana,472135
+Algeria,Algiers,1253079
+American Samoa,Pago Pago,1062841
+Andorra,Andorra la Vella,472553
+Angola,Luanda,1261906
+Anguilla,The Valley,56273
+Antigua and Barbuda,Saint John's,56220
+Argentina,Buenos Aires,468739
+Armenia,Yerevan,2214662
+Aruba,Oranjestad,56069
+Australia,Adelaide,1099805
+Australia,Brisbane,1100661
+Australia,Canberra,1100968
+Australia,Darwin,1101597
+Australia,Hobart,1102670
+Australia,Melbourne,1103816
+Australia,Perth,1098081
+Australia,Sydney,1105779
+Austria,Vienna,551801
+Azerbaijan,Baku,1951874
+Bahamas,Nassau,57024
+Bahrain,Manama,1967057
+Bangladesh,Dhaka,1915035
+Barbados,Bridgetown,56334
+Belarus,Minsk,834463
+Belgium,Brussels,968019
+Belize,Belmopan,57172
+Benin,Porto-Novo,1268465
+Bermuda,Hamilton,56793
+Bhutan,Thimphu,1887896
+Bolivia,La Paz,346057
+Bosnia and Herzegovina,Sarajevo,943828
+Botswana,Gaborone,1265547
+Brazil,Brasilia,455819
+British Indian Ocean Territory,Diego Garcia,1339594
+Brunei Darussalam,Bandar Seri Begawan,1020725
+Bulgaria,Sofia,839722
+Burkina Faso,Ouagadougou,1461080
+Burundi,Bujumbura,1269399
+Cambodia,Phnom Penh,1020985
+Cameroon,Yaounde,1305860
+Canada,Ottawa,91982014
+Cape Verde,Praia,1310855
+Cayman Islands,George Town,57596
+Central African Republic,Bangui,1306666
+Chad,N'Djamena,1273423
+Chile,Santiago,349859
+China,Beijing,2151330
+Christmas Island,The Settlement,1049073
+Cocos (Keeling) Islands,West Island,1062839
+Colombia,Bogota,368148
+Comoros,Moroni,1306106
+Cook Islands,Avarua,1064303
+Costa Rica,San Jose,59426
+Cote D'ivoire,Yamoussoukro,1347063
+Croatia,Zagreb,851128
+Cuba,Havana,63817
+Curacao,Willemstad,152045
+Cyprus,Nicosia,841546
+Cyprus,North Nicosia,841546
+Czech Republic,Prague,796597
+Democratic Republic of Congo,Kinshasa,1290062
+Denmark,Copenhagen,554890
+Djibouti,Djibouti City,1310941
+Dominica,Roseau,68829
+Dominican Republic,Santo Domingo,76456
+Ecuador,Quito,375732
+Egypt,Cairo,1521894
+El Salvador,San Salvador,79825
+Equatorial Guinea,Malabo,1480564
+Eritrea,Asmara,1312120
+Estonia,Tallinn,845743
+Ethiopia,Addis Ababa,1313090
+Falkland Islands,Stanley,379330
+Faroe Islands,Torshavn,472768
+Fiji,Suva,1064103
+Finland,Helsinki,565346
+France,Paris,615702
+French Polynesia,Papeete,1062847
+Gabon,Libreville,1324195
+Gambia,Banjul,1321151
+Georgia,Tbilisi,1965878
+Germany,Berlin,638242
+Ghana,Accra,1326075
+Gibraltar,Gibraltar,472800
+Greece,Athens,946738
+Greenland,Nuuk,472856
+Grenada,Saint George's,80438
+Guam,Hagatna,28718593
+Guatemala,Guatemala City,83123
+Guernsey,Saint Peter Port,538498
+Guinea,Conakry,1334760
+Guinea-bissau,Bissau,1559861
+Guyana,Georgetown,376765
+Haiti,Port-au-Prince,96110
+Holy See (Vatican City State),Vatican City,537842
+Honduras,Tegucigalpa,107681
+Hong Kong,Hong Kong,2165352
+Hungary,Budapest,804365
+Iceland,Reykjavik,980389
+India,New Delhi,29229014
+Indonesia,Jakarta,1047378
+Iran, Islamic Republic of,Tehran,2251945
+Iraq,Baghdad,1979455
+Ireland,Dublin,560743
+Isle of Man,Douglas,538629
+Israel,Jerusalem,1968222
+Italy,Rome,721943
+Jamaica,Kingston,109251
+Japan,Tokyo,1118370
+Jordan,Amman,1968902
+Kazakhstan,Astana,2264962
+Kenya,Nairobi,1528488
+Kiribati,Tarawa,29112751
+Korea, Democratic People's Republic of,Pyongyang,1079132
+Kosovo,Pristina,536151
+Kuwait,Kuwait City,1940631
+Kyrgyzstan,Bishkek,1969888
+Lao People's Democratic Republic,Vientiane,1140612
+Latvia,Riga,854823
+Lebanon,Beirut,1960307
+Lesotho,Maseru,1352389
+Liberia,Monrovia,1350536
+Libyan Arab Jamahiriya,Tripoli,1353281
+Liechtenstein,Vaduz,856440
+Lithuania,Vilnius,479616
+Luxembourg,Luxembourg,979282
+Macau,Macau,1887901
+Macedonia,Skopje,482940
+Madagascar,Antananarivo,1358594
+Malawi,Lilongwe,1367476
+Malaysia,Kuala Lumpur,1154781
+Maldives,Male,2268295
+Mali,Bamako,1369729
+Malta,Valletta,483559
+Marshall Islands,Majuro,1064287
+Mauritania,Nouakchott,1504735
+Mauritius,Port Louis,1377436
+Mexico,Mexico City,116545
+Micronesia,Palikir,1062825
+Moldova,Chisinau,480793
+Monaco,Monaco,483301
+Mongolia,Ulaanbaatar,2266535
+Montenegro,Podgorica,536010
+Montserrat,Plymouth,110875
+Morocco,Rabat,1539359
+Mozambique,Maputo,1550363
+Myanmar,Rangoon,1015662
+Namibia,Windhoek,1466719
+Nauru,Yaren,1064282
+Nepal,Kathmandu,2269179
+Netherlands,Amsterdam,727232
+New Caledonia,Noumea,1049640
+New Zealand,Wellington,2351310
+Nicaragua,Managua,153523
+Niger,Niamey,1505949
+Nigeria,Abuja,1383729
+Niue,Alofi,1064260
+Norfolk Island,Kingston,1049697
+Northern Mariana Islands,Saipan,1062826
+Norway,Oslo,862592
+Oman,Muscat,2268284
+Pakistan,Islamabad,2211027
+Palau,Melekeok,29389597
+Palestinian Territory, Occupied,Jerusalem,1968222
+Panama,Panama City,159386
+Papua New Guinea,Port Moresby,1062005
+Paraguay,Asuncion,379176
+Peru,Lima,418440
+Philippines,Manila,1199477
+Pitcairn,Adamstown,1064283
+Poland,Warsaw,523920
+Portugal,Lisbon,742676
+Puerto Rico,San Juan,161685
+Qatar,Doha,1940517
+Republic of Congo,Brazzaville,1279685
+Romania,Bucharest,868274
+Russia,Moscow,2122265
+Rwanda,Kigali,1511263
+Saint Helena,Jamestown,1418852
+Saint Kitts and Nevis,Basseterre,161849
+Saint Lucia,Castries,162005
+Saint Pierre and Miquelon,Saint-Pierre,1410240
+Saint Vincent and The Grenadines,Kingstown,329564
+Samoa,Apia,980858
+San Marino,San Marino,532373
+Sao Tome and Principe,Sao Tome,1441680
+Saudi Arabia,Riyadh,1939753
+Senegal,Dakar,1411986
+Serbia,Belgrade,532697
+Seychelles,Victoria,1411024
+Sierra Leone,Freetown,1419467
+Singapore,Singapore,1062617
+Sint Maarten,Marigot,80765
+Sint Maarten,Philipsburg,151970
+Slovakia,Bratislava,818717
+Slovenia,Ljubljana,530634
+Solomon Islands,Honiara,1020496
+Somalia,Mogadishu,1428499
+South Africa,Pretoria,1586638
+South Georgia and The South Sandwich Islands,King Edward Point,23424955
+South Korea,Seoul,1132599
+Spain,Madrid,766273
+Sri Lanka,Colombo,2189783
+Sudan,Khartoum,1433559
+Suriname,Paramaribo,377227
+Svalbard and Jan Mayen,Longyearbyen,537831
+Swaziland,Mbabane,1563426
+Sweden,Stockholm,906057
+Switzerland,Bern,781788
+Syrian Arab Republic,Damascus,1947122
+Taiwan,Taipei,2306179
+Tajikistan,Dushanbe,2213336
+Tanzania,Dar es Salaam,1443415
+Thailand,Bangkok,1225448
+Timor-leste,Dili,1047376
+Togo,Lome,1440110
+Tokelau,Atafu,23424963
+Tonga,Nuku'alofa,1062813
+Trinidad and Tobago,Port of Spain,380213
+Tunisia,Tunis,1442746
+Turkey,Ankara,2343732
+Turkmenistan,Ashgabat,1935520
+Turks and Caicos Islands,Grand Turk,23424962
+Tuvalu,Funafuti,1064289
+Uganda,Kampala,1451962
+Ukraine,Kyiv,924938
+United Arab Emirates,Abu Dhabi,1940330
+United Kingdom,London,44418
+United States,Albany,2352646
+United States,Annapolis,2354877
+United States,Atlanta,2357024
+United States,Augusta,2357379
+United States,Austin,2357536
+United States,Baton Rouge,2359991
+United States,Bismarck,2364681
+United States,Boise,2366355
+United States,Boston,2367105
+United States,Carson City,Carson City
+United States,Charleston,2378317
+United States,Cheyenne,2379552
+United States,Columbia,2383552
+United States,Columbus,2383660
+United States,Concord,2384019
+United States,Denver,2391279
+United States,Des Moines,2391446
+United States,Dover,2393370
+United States,Frankfort,2406903
+United States,Harrisburg,2418046
+United States,Hartford,2418244
+United States,Helena,2419761
+United States,Honolulu,2423945
+United States,Indianapolis,2427032
+United States,Jackson,2428184
+United States,Jefferson City,2428866
+United States,Juneau,2430300
+United States,Lansing,2436453
+United States,Lincoln,2439482
+United States,Little Rock,2440351
+United States,Madison,2443945
+United States,Montgomery,2453369
+United States,Montpelier,2453516
+United States,Nashville,2457170
+United States,Oklahoma City,2464592
+United States,Olympia,2465478
+United States,Phoenix,2471390
+United States,Pierre,2471666
+United States,Providence,2477058
+United States,Raleigh,2478307
+United States,Richmond,2480894
+United States,Sacramento,2486340
+United States,Saint Paul,2487129
+United States,Salem,2487384
+United States,Salt Lake City,2487610
+United States,Santa Fe,2488867
+United States,Springfield,2498306
+United States,Tallahassee,2503713
+United States,Topeka,2507158
+United States,Trenton,2507854
+United States,Washington D.C.,2514815
+Uruguay,Montevideo,468052
+Uzbekistan,Tashkent,2272113
+Vanuatu,Port-Vila,1050907
+Venezuela,Caracas,395269
+Vietnam,Hanoi,91888417
+Vietnam,Ho Chi Minh City,1252431
+Virgin Islands, British,Road Town,329616
+Virgin Islands, U.S.,Charlotte Amalie,329667
+Virgin Islands, U.S.,Gustavia,80675
+Wallis and Futuna,Mata-Utu,1064134
+Western Sahara,Laayoune,1466769
+Yemen,Sanaa,1958237
+Zambia,Lusaka,1569006
+Zimbabwe,Harare,1467052
