@@ -6,28 +6,33 @@
 
 static size_t WriteCallback(void *contents, size_t size, size_t nmemb, void *userp);
 void fetchJson();
-void getWoeidList();
-    
-const char *URL_BASE = "https://www.metaweather.com/api/location/44418/";
-const std::string WOEID_FILE = "id_list.txt";
-std::vector<std::string> woeids;
+void getCityList();
+ 
+const char *URL_BASE = "https://www.metaweather.com/api/location/search/?query=";
+const char *CITY_LIST_FILE = "city_list.txt";
+std::vector<std::string> cities;
 
 int main(void){
-	getWoeidList();
-	for(int i=0; i<woeids.size(); ++i)
-		std::cout << woeids[i] << ' ';	
+	getCityList();
+	std::cout << "Read " << cities.size() << " cities from file..." << std::endl;
+	/*
+	for(int i=0; i<cities.size(); ++i){
+		std::cout << cities[i] << std::endl;
+		std::cout << "Sample: " << URL_BASE + cities[i] << std::endl;	 
+	}
+	*/
 	//fetchJson();
 	return 0;
 }
 
-void getWoeidList(){
-	std::ifstream idFile(WOEID_FILE.c_str());
+void getCityList(){
+	std::ifstream idFile(CITY_LIST_FILE);
 	std::string currentLine;
 
 	if(idFile.is_open()){
-		if(! idFile.eof()){
+		while(! idFile.eof()){
 			getline (idFile, currentLine);
-			woeids.push_back(currentLine);	
+			cities.push_back(currentLine);	
 		}
 	}
 	idFile.close();
