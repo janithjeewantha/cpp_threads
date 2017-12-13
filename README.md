@@ -18,7 +18,7 @@ Then install libcurl development libraries. This step may vary according to your
 
 On Ubuntu,
 
-```
+```sh
 sudo apt install libcurl-openssl-dev
 ```
 
@@ -28,7 +28,7 @@ That's all you need to compile and run the program
 
 You can compile the program by
 
-```
+```sh
 g++ weather-dl.cpp -std=c++11 -lcurl -lpthread -o weather-dl
 ```
 
@@ -37,10 +37,10 @@ done with ```-lcurl -lpthread``` arguments.
 
 If it compiles successfuly, run using,
 
-```
+```sh
 ./weather-dl
 ```
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
