@@ -32,6 +32,7 @@ int main(void){
 	*/
 	//fetchJson(1);
 
+    std::cout << "Using 2 threads to fetch..." << std::endl;
 	std::thread thread_1(&fetch_weather_async);
 	std::thread thread_2(&fetch_weather_async);
 	
@@ -40,7 +41,7 @@ int main(void){
 	thread_2.join();
 	finish = std::time(nullptr);
 	
-	std::cout << "Duration " << (finish - start) << std::endl;
+	std::cout << "Duration " << (finish - start) << "s" << std::endl;
 	
 	return 0;
 }
