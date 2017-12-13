@@ -7,7 +7,7 @@ A simple weather info downloader implemented in C++ to demonstrate multithreadin
 This project is created as an exercise for self learning C++.
 It makes use of ```std::thread```s, mutexes, [libcurl](https://curl.haxx.se/libcurl/) (for http requests) and file manipulation.
 The main purpose of the application is to load weather info (as JSON strings) for a specific set of cities read from a raw text file, 
-from an open web api ([metaweather](www.metaweather.com/api)). 
+from an open web api ([metaweather](https://www.metaweather.com/api/)). 
 The requests for each city is sent using one or several threads specified by the user.
 The whole process and the overall time is printed to the console so that the impact of threads are clearly demonstrated to the user.
 
