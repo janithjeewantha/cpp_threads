@@ -11,6 +11,10 @@ from an open web api ([metaweather](www.metaweather.com/api)).
 The requests for each city is sent using one or several threads specified by the user.
 The whole process and the overall time is printed to the console so that the impact of threads are clearly demonstrated to the user.
 
+Fetching with 2 threads (32 sec)                                             |  Fetching with 5 threads (13 sec)
+:---------------------------------------------------------------------------:|:-------------------------:
+![](https://github.com/janithjeewantha/cpp_threads/blob/master/img/two.gif)  |  ![](https://github.com/janithjeewantha/cpp_threads/blob/master/img/three.gif)
+
 ### Prerequisites
 
 Since I have used ```std::thread``` class instead of ```pthread```, you will need a c++11 compatible compiler.
